@@ -62,3 +62,7 @@ if (ft6x36_touched()) {
 - `ft6326_init(config)` - Initialize the driver with platform callbacks
 - `ft6x36_touched()` - Check if screen is touched
 - `ft6x36_get_touches(array)` - Get touch coordinates and details
+
+## License
+
+This project is licensed under the [GNU Affero General Public License v3.0 or later](LICENSE) (`AGPL-3.0-or-later`).
